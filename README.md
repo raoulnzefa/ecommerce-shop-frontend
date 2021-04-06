@@ -1,6 +1,7 @@
 # vuetify_axios_ecommerce
 
 Responsive frontend design template for online shoes shop
+
 Techonologies used include Vue.js, Vuetify, Sass & Axios API requests
 
 ## Project setup
